@@ -5,38 +5,42 @@ body{
     position: absolute;
     left: 0;
     top: 0;
-  background-color:#fff;
+    font-size:10px;
   padding: 2px 2px 30px 2px;
   margin: 20px;
-  width: 200px;
+  width: 1000px;
   text-align: center;
   background: url(http://ilyakhasanov.ru/images/background/199.jpg)
 
 }
 div{
+
   background-color:#ffffff;
-  border-radius: 10px;
+  border-radius: 20px;
   text-color:#000000;
   }
 
 p{
 text-color:#ffffff;
-  background-color:#ffffff;
+  background-color:#b0fff9;
   border-radius: 10px;
+  font-size:30px ;
+  font-weight:10px;
+  
 }
 
 button{
-border-radius: 10px;
+border-radius: 100px;
 -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.08);
 box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.08);
 color: #fff;
 display:block;
-width:200px;
+width:500px;
 text-align: center;
 font-family: Arial, Helvetica, sans-serif;
-font-size: 14px;
+font-size: 50px;
 padding: 8px 16px;
-margin: 20px auto;
+margin: 10px auto;
 text-decoration: none;
 text-shadow: 0 1px 1px rgba(0, 0, 0, 0.075);
 -webkit-transition: background-color 0.1s linear;
