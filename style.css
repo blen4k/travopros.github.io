@@ -1,5 +1,6 @@
 body{
-  position: absolute;
+    height: 100vh;
+    width: auto;
   background-color:#fff;
   padding: 2px 2px 30px 2px;
   margin: 20px;
