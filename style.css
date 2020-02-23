@@ -1,5 +1,14 @@
 body{
   position: absolute;
+  left:auto;
+  border: 2px solid #000000;
+  padding: 10px 20px 10px 20px;
+  margin: 20px;
+  width: 400px;
+}
+
+body{
+  position: absolute;
   border: 2px solid #03a9f4;
   border-radius: 10px;
   background-color:#fff;
@@ -12,7 +21,7 @@ body{
 }
 div{
 
-  background-color:#03a9f4;
+  background-color:#FFEB3B;
   border-radius: 10px;
   text-color:#000000;
   }
