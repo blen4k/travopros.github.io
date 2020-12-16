@@ -1,4 +1,4 @@
-alert('Мотрон пидорас чтобы ты здох мразота, приятного дня )');
+
 function generate() {
     var random;
         random = (Math.floor(Math.random() * (8 - 1) + 1)); // Генератор числа
