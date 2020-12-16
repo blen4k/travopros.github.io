@@ -245,7 +245,7 @@ if (Nar == 70) {
   document.getElementById('Nar').innerHTML=('🌚 шип npc ');
 }
 if (Nar == 72) {
-  document.getElementById('Nar').innerHTML=('Пидораса из кваса');
+  document.getElementById('Nar').innerHTML=('Хумка камня');
 }
 //пока конец будет дополнено
 //люблю коменты
