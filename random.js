@@ -1,3 +1,9 @@
+.alert {
+    padding: 20px;
+    background-color: #f44336; /* Red */
+    color: white;
+    margin-bottom: 15px;
+}
 function generate() {
     var random;
         random = (Math.floor(Math.random() * (8 - 1) + 1)); // Генератор числа
