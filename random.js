@@ -1,6 +1,4 @@
-$(document).ready(function(){
 alert('Мотрон пидорас');
-});
 function generate() {
     var random;
         random = (Math.floor(Math.random() * (8 - 1) + 1)); // Генератор числа
