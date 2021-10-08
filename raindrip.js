@@ -95,7 +95,7 @@ var maxParticles = 100,
 	            // Update the length of the rain drop based on velocity
 	            particles[i].length = particles[i].velocity.y * 1.8;
 
-	            // The negative length gives the bounce effect, but it buggy, so this resets particles when the length is below -20
+	
 	            if(particles[i].length <= -20){
 	            	particles[i].setParticle();
 	            }
