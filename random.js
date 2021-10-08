@@ -118,6 +118,8 @@ function Narisovat() {
 	'Жёлтый слизень',
 	'Зомби'
 	];    
+//Код будет дополнятся 
+	
 var rand = Math.floor(Math.random() * arr.length);
 var concat = arr[rand];
 document.getElementById("Nar").innerHTML = (concat);
